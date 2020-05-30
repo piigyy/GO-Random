@@ -3,6 +3,7 @@ A Random number generator for GO Language. I mean real random everytime to rando
 
 # Usage
 
+
 ```
 package main
 
@@ -16,4 +17,4 @@ func main() {
   fmt.Println(random) // Is going to print out a random int in range of 100 
 }
 
-```go
+```
